@@ -1,0 +1,15 @@
+/Users/betmen/Projects/lesson19/lesson19/bin/Debug/net6.0/lesson19
+/Users/betmen/Projects/lesson19/lesson19/bin/Debug/net6.0/lesson19.deps.json
+/Users/betmen/Projects/lesson19/lesson19/bin/Debug/net6.0/lesson19.runtimeconfig.json
+/Users/betmen/Projects/lesson19/lesson19/bin/Debug/net6.0/lesson19.dll
+/Users/betmen/Projects/lesson19/lesson19/bin/Debug/net6.0/lesson19.pdb
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/lesson19.csproj.AssemblyReference.cache
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/lesson19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/lesson19.AssemblyInfoInputs.cache
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/lesson19.AssemblyInfo.cs
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/lesson19.csproj.CoreCompileInputs.cache
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/lesson19.dll
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/refint/lesson19.dll
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/lesson19.pdb
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/lesson19.genruntimeconfig.cache
+/Users/betmen/Projects/lesson19/lesson19/obj/Debug/net6.0/ref/lesson19.dll

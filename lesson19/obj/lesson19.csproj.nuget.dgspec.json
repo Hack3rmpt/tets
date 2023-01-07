@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/betmen/Projects/lesson19/lesson19/lesson19.csproj": {}
+  },
+  "projects": {
+    "/Users/betmen/Projects/lesson19/lesson19/lesson19.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/betmen/Projects/lesson19/lesson19/lesson19.csproj",
+        "projectName": "lesson19",
+        "projectPath": "/Users/betmen/Projects/lesson19/lesson19/lesson19.csproj",
+        "packagesPath": "/Users/betmen/.nuget/packages/",
+        "outputPath": "/Users/betmen/Projects/lesson19/lesson19/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/betmen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
